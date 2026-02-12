@@ -17,14 +17,6 @@ Me chamo Vitor Gomes, tenho 20 anos sou de Suzano/SP. Atualmente, estou cursando
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
