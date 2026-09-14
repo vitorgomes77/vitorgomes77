@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Vitor Gomes, tenho 20 anos sou de Suzano/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMC - Universidade de Mogi Das Cruzes. Desde criança muito curioso com Tecnologia tinha PC em casa então semrpe bem curioso fui me apaixonando e identificando essa paixão aos poucos. 
+Me chamo Vitor Gomes, tenho 21 anos sou de Suzano/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UMC - Universidade de Mogi Das Cruzes. Desde criança muito curioso com Tecnologia tinha PC em casa então semrpe bem curioso fui me apaixonando e identificando essa paixão aos poucos. 
 <p align="left">
 
 ### 🤖 Linguagens e Tecnologias
